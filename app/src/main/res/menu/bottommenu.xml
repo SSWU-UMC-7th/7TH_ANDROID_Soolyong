@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/lets_icons_home"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/nav_calendar"
+        android:icon="@drawable/quill_calendar"
+        android:title="Calendar" />
+
+    <item
+        android:id="@+id/nav_pencil"
+        android:icon="@drawable/lucide_pencil_line"
+        android:title="Pencil" />
+
+    <item
+        android:id="@+id/nav_user"
+        android:icon="@drawable/flowbite_user_outline"
+        android:title="User" />
+</menu>
