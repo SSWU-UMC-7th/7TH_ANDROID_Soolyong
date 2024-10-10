@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_home"
+        android:iconTint="#D9D9D9"
+        app:showAsAction="always"
+        android:enabled="true"
+        tools:ignore="AlwaysShowAction" />
+    <item
+        android:id="@+id/writeFragment"
+        android:icon="@drawable/ic_write"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/calFragment"
+        android:icon="@drawable/ic_calendar"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/mypageFragment"
+        android:icon="@drawable/ic_user"
+        app:showAsAction="always" />
+</menu>
+
+<!--    android:title="홈"-->
+<!--    android:title="작성"-->
+<!--    android:title="달력"-->
+<!--    android:title="마이페이지"-->
