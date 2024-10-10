@@ -8,7 +8,7 @@
 
 | 장수민 | 홍지현 | 김윤서 | 최윤성 |
 |:---:|:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/1cf3bc54-e4ae-4ace-8f81-dfe039170dda" width="230" height="230"> | <img src="https://github.com/user-attachments/assets/719fb0d5-a7d9-4548-80e0-bcb7f2795ee4" width="300" height="230"> | <img src="https://github.com/user-attachments/assets/29aac7ed-644b-4c4f-b422-98722888a59c" width="300" height="230"> | <img src="" width="300" height="230"> |
+| <img src="https://github.com/user-attachments/assets/2d79310a-3fb2-425e-a687-b0f13c683321" width="300" height="230"> | <img src="https://github.com/user-attachments/assets/719fb0d5-a7d9-4548-80e0-bcb7f2795ee4" width="300" height="230"> | <img src="https://github.com/user-attachments/assets/29aac7ed-644b-4c4f-b422-98722888a59c" width="300" height="230"> | <img src="" width="300" height="230"> |
 | [@summin9](https://github.com/suminn9) | [@Hongji03](https://github.com/Hongji03) | [@muunseo](https://github.com/muunseo) | [@](https://github.com/) |
 
 <br/> 
