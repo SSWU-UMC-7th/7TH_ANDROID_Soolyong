@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools">
+
+        <TextView
+            android:id="@+id/second_record_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="메모 보기"
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            android:layout_marginTop="8dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/second_plant_iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_plant"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="40dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/second_record_tv" />
+
+        <TextView
+            android:id="@+id/second_date_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2024-11-07"
+            android:textSize="16dp"
+            android:textColor="@color/black"
+            android:layout_marginStart="25dp"
+            app:layout_constraintStart_toEndOf="@id/second_plant_iv"
+            app:layout_constraintTop_toTopOf="@id/second_plant_iv"
+            app:layout_constraintBottom_toBottomOf="@id/second_plant_iv" />
+
+        <TextView
+            android:id="@+id/second_write_et"
+            android:layout_width="match_parent"
+            android:layout_height="424dp"
+            android:background="@drawable/border_maincolor"
+            android:paddingHorizontal="19dp"
+            android:paddingVertical="29dp"
+            android:text="사용자가 작성한 메모가 여기에 보여집니다."
+            android:textSize="14sp"
+            android:textColor="@color/black"
+            android:layout_marginHorizontal="24dp"
+            android:layout_marginTop="40dp"
+            android:gravity="start"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/second_plant_iv" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>
