@@ -14,7 +14,8 @@ class AlbumFragment : Fragment() {
     private val information = arrayListOf("수록곡", "상세 정보", "영상")
 
     override fun onCreateView(
-        inflater: LayoutInflater, container: ViewGroup?,
+        inflater: LayoutInflater,
+        container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
         binding = FragmentAlbumBinding.inflate(inflater, container, false)
